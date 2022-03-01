@@ -1,7 +1,4 @@
-//Marisa Paone
 
-
-package cs520.hw6;
 
 import java.util.ArrayList;
 import java.util.Collection;
